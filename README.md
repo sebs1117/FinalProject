@@ -12,6 +12,6 @@
 > - [Use Case Scenario](https://github.com/sebs1117/FinalProject/blob/main/System%20Req/twitter_Usecase_scenario.xlsx)
 > - [Class Diagram](https://github.com/sebs1117/FinalProject/blob/main/System%20Req/twitter_classDiagramFinal.vsdx)
 
-##[System Design](https://github.com/sebs1117/FinalProject/tree/main/System%20Design)
+## [System Design](https://github.com/sebs1117/FinalProject/tree/main/System%20Design)
 > - [Final Cut Sequence](https://github.com/sebs1117/FinalProject/blob/main/System%20Design/Final%20Cut%20Sequence.vsdx)
 > - [State Chart](https://github.com/sebs1117/FinalProject/blob/main/System%20Design/StateChart.vsdx)
